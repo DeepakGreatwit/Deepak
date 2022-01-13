@@ -17,6 +17,7 @@ public class StaticEx {
     static{
     	
     	 System.out.println("this is  static block");
+    	 System.out.println("this is  static block");
     	 StaticEx.m1();
     }
    
