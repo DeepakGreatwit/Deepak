@@ -2,7 +2,7 @@ package StaticDemo;
 
 public class Nonstatic {
 	public static void main(String[] args) {
-		  int n = 5;
+		  int n = 6;
 	       System.out.println("Main method");
 	       System.out.println(n);
 	       Nonstatic ce = new Nonstatic();
